@@ -42,4 +42,4 @@ jobs:
           node-version: '16'
       - run: |
           npm i eslint
-          npm run lint
+          npm run lint
